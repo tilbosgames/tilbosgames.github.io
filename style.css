@@ -34,7 +34,7 @@ nav{
     justify-content: center;
   }
 
-  #mobilenav{
+  .mobileNavItem{
       display: none;
   }
   
