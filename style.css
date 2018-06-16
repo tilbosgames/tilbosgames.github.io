@@ -36,6 +36,7 @@ nav{
 
   .mobileNavItem{
       display: none;
+      text-decoration: underline;
   }
   
   a{
