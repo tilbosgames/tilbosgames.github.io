@@ -33,6 +33,10 @@ nav{
     align-items: center;
     justify-content: center;
   }
+
+  #mobilenav{
+      display: none;
+  }
   
   a{
     text-decoration: none;
