@@ -9,6 +9,16 @@ html, body, ul, ol, li, form, fieldset, legend
     src: url('src/Louis\ George\ Cafe.ttf');
 }
 
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
 @media only screen and (min-width: 1000px) {
 
 body {
@@ -120,6 +130,15 @@ nav{
       display: inline-block;
   }
 
+
+  .latestcardconf {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 52%;
+    display: block;
+}
+
   .twoset{
       width: 60%;
       height: 100%;
@@ -146,6 +165,7 @@ nav{
   }
 
   #about{
+      display: block;
       margin-right: auto;
       margin-left: auto; 
       width: 30%;
@@ -303,6 +323,14 @@ nav{
           margin-right: auto;
           margin-bottom: 50px;
       }
+
+      .latestcardconf {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        width: 100%;
+        display: block;
+    }
     
       .twoset{
           width: 80%;
@@ -479,6 +507,14 @@ nav{
           width: 40%;
           display: inline-block;
       }
+
+      .latestcardconf {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        width: 52%;
+        display: block;
+    }
     
       .twoset{
           width: 60%;
