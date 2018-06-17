@@ -65,7 +65,7 @@ nav{
 }
 
   a:hover {
-      text-decoration: underline #E8B00C;
+      text-decoration: underline #f70000;
   }
 
   a:visited,active {
@@ -240,7 +240,7 @@ nav{
     .mobileNavItem{
         margin-top: 15px;
         margin-bottom: 15px;
-        text-decoration: underline #E8B00C;
+        text-decoration: underline #f70000;
     }
       
       a{
@@ -256,7 +256,7 @@ nav{
     }
     
       a:hover {
-          text-decoration: underline #E8B00C;
+          text-decoration: underline #f70000;
       }
     
       a:visited,active {
@@ -439,7 +439,7 @@ nav{
     }
     
       a:hover {
-          text-decoration: underline #E8B00C;
+          text-decoration: underline #f70000;
       }
     
       a:visited,active {
